@@ -28,3 +28,7 @@
 
 # IDE
 *.sublime*
+
+# Postgresql
+start.sh
+
